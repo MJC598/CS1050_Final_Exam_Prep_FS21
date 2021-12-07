@@ -1,0 +1,26 @@
+25
+Ahote 4d6+8
+AbominableYeti 6d6
+AirElemental 3d8+2
+Allosaurus 1d8+4
+Ankylosaurus N/A
+BlackDragon-Adult 2d6+6
+BlackDragon-Ancient 2d6+8
+BlackDragon-Wyrmling 5d8
+BlackDragon-Young 2d6+4
+BrownBear 2d6+4
+Bugbear 2d6+2
+BugbearChief 2d6+3
+Bulette N/A
+CloudGiant 4d10+8
+EarthElemental N/A
+Elephant 3d10+5
+FrostGiant 4d10+6
+Gladiator 2d4+4
+Ogre 2d6+4
+OgreZombie N/A
+Orc 1d6+3
+RedDragon-Adult 2d6+8
+RedDragon-Ancient 2d6+10
+TyrannosaurusRex 3d8+7
+Zombie N/A
