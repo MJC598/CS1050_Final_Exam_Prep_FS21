@@ -24,8 +24,6 @@ char *alphaSortMonster(Data *dataArray, int index);
 void freeData(Data *dataArray);
 
 
-
-
 /*******************************************************
  *
  * Step 1: Implement readFileIntoArray to read data from a file
@@ -41,6 +39,10 @@ void freeData(Data *dataArray);
  * 			maintaining capitalization. Also note, this should not be
  * 			done in place, and main should be able to validate the
  * 			original string is the same and a new string is alphabetical
+ * 
+ * Step 3: Implement freeData to release all memory allocated.
+ * 			This can be verified by running: valgrind ./finalexamprep
+ * 			in your terminal after making the executable
  *
  *******************************************************/
 
