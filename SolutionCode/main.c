@@ -7,7 +7,7 @@
 
 #include "finalexamprep.h"
 
-#define FILENAME "monsters.txt"
+#define FILENAME "../monsters1.txt"
 
 // DO NOT EDIT ME!!!
 int main(int argc, char *argv[]){

@@ -1,0 +1,12 @@
+11
+JimR 1502 11:30PM 14
+Matt 78 12:30AM 11
+Genevieve 43 11:00PM 9
+Katelyn 29 10:45PM 21
+Chris 21 10:00PM 0
+Rudra 4 12:15AM 24
+Alicia 56 12:45AM 22
+Maria 13 11:15PM 16
+Dan 92 11:45PM 8
+Nelson 2 12:30AM 5
+Prachi 74 12:00AM 2
